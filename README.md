@@ -26,21 +26,11 @@
 
 Welcome to my CPE 010 repository! This repository contains my learning materials, programming activities, exercises, and projects for Data Structures and Algorithms.
 
-## 🗂️ Learning Modules
-
-| Module 1 | Module 2 | Module 3 | Module 4 | Module 5 | Module 6 | Module 7 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Introduction | Algorithms | Arrays | Linked Lists | Stacks | Queues | Recursion |
-| 📝 Notes | 💻 Code | 📂 Examples | 📝 Notes | 💻 Code | 📂 Examples | 🚀 Projects |
-
-## 🛠️ Tools and Technologies
-
-- **Language:** C / C++ / Python
 - **IDE:** Visual Studio Code
 - **Platform:** GitHub
 - **Subject:** Data Structures and Algorithms
 
-## 🎯 Repository Goals
+## Repository Goals
 
 - Understand fundamental data structures.
 - Develop efficient algorithms.
