@@ -22,7 +22,7 @@
 </div>
 
 
-## 📚 Course Overview
+## Course Overview
 
 Welcome to my CPE 010 repository! This repository contains my learning materials, programming activities, exercises, and projects for Data Structures and Algorithms.
 
